@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reklrjwlekrj.onrender.com/sitemap.xml
